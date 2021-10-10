@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_10" default="true" project-jdk-name="10" project-jdk-type="JavaSDK">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/drawable/border_background.xml" value="0.26461538461538464" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/drawable/ic_iconperks_bond.xml" value="0.26461538461538464" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24537037037037038" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/drawable/line_background.xml" value="0.24537037037037038" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/layout/info_item.xml" value="0.20277777777777778" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/layout/library_layout.xml" value="0.20277777777777778" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/layout/perk_card.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/layout/perk_description_card.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/layout/perk_description_layout.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/layout/perk_item_card.xml" value="0.20277777777777778" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/layout/perk_levels_card.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/layout/perks_layout.xml" value="0.21944444444444444" />
+        <entry key="..\:/Android_Projects/Dbd_guidebook/app/src/main/res/menu/main_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="10" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
