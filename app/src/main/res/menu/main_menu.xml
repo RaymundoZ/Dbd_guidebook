@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemLibrary"
+        android:title="Library"
+        android:icon="@drawable/icon_book"/>
+
+    <item
+        android:id="@+id/itemDlc"
+        android:title="DLC"
+        android:icon="@drawable/icon_dlc"/>
+
+    <item
+        android:id="@+id/itemUpdates"
+        android:title="Updates"
+        android:icon="@drawable/icon_updates"/>
+
+    <item
+        android:id="@+id/itemSettings"
+        android:title="Settings"
+        android:icon="@drawable/icon_settings"/>
+
+</menu>
